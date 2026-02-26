@@ -38,6 +38,7 @@ Complete firmware implementation based on the requirement document in the projec
 - `Core/Src/lcd1602.c`: LCD1602 4-bit driver.
 - `Core/Src/bluetooth.c`: HC-05 report output.
 - `Core/Src/seven_seg.c`, `Core/Src/buzzer.c`, `Core/Src/indicators.c`: peripheral drivers.
+- `KSC-ARM/`: standalone Keil Studio Cloud project folder (`SongCloud.uvprojx`).
 
 ## Pin Mapping Notes
 
